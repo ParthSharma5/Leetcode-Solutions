@@ -5,10 +5,12 @@
 | ------- |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3794-reverse-string-prefix](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
@@ -49,4 +51,8 @@
 |  |
 | ------- |
 | [3794-reverse-string-prefix](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
