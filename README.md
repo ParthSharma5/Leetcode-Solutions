@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [1332-remove-palindromic-subsequences](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3794-reverse-string-prefix](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
@@ -51,6 +52,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1332-remove-palindromic-subsequences](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [3794-reverse-string-prefix](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
