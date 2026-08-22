@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
 |  |
 | ------- |
