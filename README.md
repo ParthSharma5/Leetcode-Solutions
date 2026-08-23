@@ -48,6 +48,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0239-sliding-window-maximum](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0498-diagonal-traverse](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0905-sort-array-by-parity](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -80,10 +81,27 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
