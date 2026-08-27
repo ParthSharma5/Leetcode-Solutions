@@ -49,6 +49,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0136-single-number](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0498-diagonal-traverse](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
@@ -89,6 +90,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0136-single-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Queue
 |  |
