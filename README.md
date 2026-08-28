@@ -3,6 +3,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -13,6 +14,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [1332-remove-palindromic-subsequences](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1768-merge-strings-alternately](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -26,6 +28,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -92,6 +95,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3827-count-monobit-integers](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3827-count-monobit-integers) |
 ## Queue
