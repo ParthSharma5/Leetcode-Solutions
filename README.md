@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3827-count-monobit-integers](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3827-count-monobit-integers) |
 ## Array
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | ------- |
 | [0136-single-number](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0136-single-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3827-count-monobit-integers](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3827-count-monobit-integers) |
 ## Queue
 |  |
 | ------- |
