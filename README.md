@@ -95,6 +95,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3827-count-monobit-integers](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3827-count-monobit-integers) |
@@ -114,4 +115,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
