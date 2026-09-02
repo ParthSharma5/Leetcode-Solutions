@@ -44,6 +44,7 @@
 | [0231-power-of-two](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
