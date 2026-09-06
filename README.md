@@ -141,4 +141,20 @@
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
