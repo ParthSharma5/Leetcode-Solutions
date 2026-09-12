@@ -17,7 +17,7 @@ public:
         }
         invertTree(root->left);
         invertTree(root->right);
-        swap(root->left,root->right);
+        swap(root ->left,root->right);
         return root;
     }
 };
