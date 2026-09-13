@@ -5,22 +5,21 @@ public:
         int i = 0;
         int j = 0;
         int n = word1.length();
-        int m  = word2.length();
-
-        while( i < n && j < m){
-            ans += word1[i];
-            ans += word2[j];
+        int m = word2.length();
+        while(i < n && j < m){
+            ans = ans + word1[i];
+            ans = ans + word2[j];
             i++;
-            j++; 
+            j++;
         }
-        // agr pehle word1 meh characters bach jaaye tb yeh karenge
+        // agr word1 meh bache ho
         while(i < n){
-            ans += word1[i];
+            ans = ans + word1[i];
             i++;
         }
-        // agr word2 meh characters bach jaaye tb yeh hoga
+        // agr word2 meh bache ho
         while(j < m){
-            ans += word2[j];
+            ans  = ans + word2[j];
             j++;
         }
         return ans;
