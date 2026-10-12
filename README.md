@@ -67,6 +67,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0498-diagonal-traverse](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
@@ -147,6 +148,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 ## Prefix Sum
 |  |
 | ------- |
