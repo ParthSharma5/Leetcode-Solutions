@@ -31,6 +31,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
