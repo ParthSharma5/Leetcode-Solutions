@@ -6,6 +6,7 @@
 | [0001-two-sum](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0389-find-the-difference](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -79,6 +80,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -191,4 +193,12 @@
 | [0020-valid-parentheses](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
