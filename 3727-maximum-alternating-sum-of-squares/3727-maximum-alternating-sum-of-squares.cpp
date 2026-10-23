@@ -5,8 +5,7 @@ public:
         for(int i=0;i<n;i++){
             nums[i] = nums[i] * nums[i];
         }
-        // sort kardete h
-        // sort(nums.begin(),nums.end());
+      
         nth_element(nums.begin(),nums.begin()+n/2,nums.end());
         long long largerHalf = accumulate(nums.begin()+n/2,nums.end(),0LL);
         long long smallerHalf = accumulate(nums.begin(),nums.begin()+n/2,0LL);
