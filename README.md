@@ -83,6 +83,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -118,6 +119,7 @@
 | [0239-sliding-window-maximum](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -161,6 +163,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ParthSharma5/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Tree
